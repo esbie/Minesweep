@@ -1,0 +1,47 @@
+table {
+  border-spacing: 0 0;
+}
+td {
+  width: 24px;
+  height: 26px;
+  text-align: center;
+}
+th {
+  display: none
+}
+.notRevealed {
+  background: url("../images/Block.png") 50% 50% no-repeat;
+}
+.revealed {
+  background: url("../images/BlockDown.png") 50% 50% no-repeat;
+}
+.flaghover {
+  background-color:yellow;
+}
+.revealed.n9 {
+  background-color: red;
+}
+.revealed.n7, .revealed.n8 {
+ color: black
+}
+.revealed.n6 {
+ color: brown
+}
+.revealed.n5 {
+ color: purple
+}
+.revealed.n4 {
+ color: red
+}
+.revealed.n3 {
+ color: orange
+}
+.revealed.n2 {
+ color: green
+}
+.revealed.n1 {
+ color: blue
+}
+.revealed.n0 {
+ color: grey
+}
