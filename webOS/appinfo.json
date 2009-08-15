@@ -1,0 +1,9 @@
+{
+	"id": "com.esbie.mine",
+	"version": "1.0.0",
+	"vendor": "My Company",
+	"type": "web",
+	"main": "index.html",
+	"title": "Minesweep",
+	"icon": "icon.png"
+}
